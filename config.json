@@ -1,16 +1,16 @@
 {
     "servers": [
         {
-            "name": "Jondor Filial",
-            "url": "https://jondor.sirius.org.uz"
-        },
-        {
             "name": "Asosiy Filial",
             "url": "https://2025-2026.sirius.org.uz/"
         },
         {
             "name": "Prizident Filial",
             "url": "https://president.sirius.org.uz/"
+        },
+        {
+            "name": "Jondor Filial",
+            "url": "https://jondor.sirius.org.uz"
         }
     ]
 }
