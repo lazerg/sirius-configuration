@@ -2,15 +2,15 @@
     "servers": [
         {
             "name": "Asosiy Filial",
-            "url": "https://2025-2026.sirius.org.uz/"
+            "url": "https://2025-2026.sirius.org.uz/api/mobile/"
         },
         {
             "name": "Prizident Filial",
-            "url": "https://president.sirius.org.uz/"
+            "url": "https://president.sirius.org.uz/api/mobile/"
         },
         {
             "name": "Jondor Filial",
-            "url": "https://jondor.sirius.org.uz"
+            "url": "https://jondor.sirius.org.uz/api/mobile/"
         }
     ]
 }
