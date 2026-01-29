@@ -2,15 +2,19 @@
     "servers": [
         {
             "name": "Asosiy Filial",
-            "url": "https://2025-2026.sirius.org.uz/api/mobile/"
+            "url": "https://2025-2026.sirius.org.uz/api/mobile/",
+            "deleteAccountUrl": "https://2025-2026.sirius.org.uz/delete-account"
         },
         {
             "name": "Prizident Filial",
-            "url": "https://president.sirius.org.uz/api/mobile/"
+            "url": "https://president.sirius.org.uz/api/mobile/",
+            "deleteAccountUrl": "https://president.sirius.org.uz/delete-account"
         },
         {
             "name": "Jondor Filial",
-            "url": "https://jondor.sirius.org.uz/api/mobile/"
+            "url": "https://jondor.sirius.org.uz/api/mobile/",
+            "deleteAccountUrl": "https://jondor.sirius.org.uz/delete-account"
         }
-    ]
+    ],
+    "privacyPolicyUrl": "https://president.sirius.org.uz/privacy-policy"
 }
