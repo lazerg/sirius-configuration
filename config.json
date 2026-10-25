@@ -9,11 +9,6 @@
             "name": "Prizident Filial",
             "url": "https://president.sirius.org.uz/api/mobile/",
             "deleteAccountUrl": "https://president.sirius.org.uz/delete-account"
-        },
-        {
-            "name": "Jondor Filial",
-            "url": "https://jondor.sirius.org.uz/api/mobile/",
-            "deleteAccountUrl": "https://jondor.sirius.org.uz/delete-account"
         }
     ],
     "privacyPolicyUrl": "https://president.sirius.org.uz/privacy-policy"
